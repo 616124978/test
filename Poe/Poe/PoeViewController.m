@@ -34,6 +34,9 @@
 
 -(void)loadData {
     
+    
+    //44444444444444b
+    
     self.model = [[PoeModel alloc] init];
     
     int arc = arc4random()%(92-1+1)+1;
