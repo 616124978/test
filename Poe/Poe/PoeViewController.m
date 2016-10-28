@@ -34,7 +34,7 @@
 
 -(void)loadData {
     
-    NSLog(@"TMD");
+    NSLog(@"TMD,CNM");
     
     self.model = [[PoeModel alloc] init];
     
