@@ -101,10 +101,7 @@
     
     [self.tableView registerClass:[UITableViewCell class] forCellReuseIdentifier:@"cell"];
   
-    
-    
-    
-    //gege nihao shuai
+        //gege nihao shuai
 }
 
 -(void)initTimer {
