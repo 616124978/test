@@ -100,7 +100,11 @@
     self.tableView.dataSource = self;
     
     [self.tableView registerClass:[UITableViewCell class] forCellReuseIdentifier:@"cell"];
-
+  
+    
+    
+    
+    //gege nihao shuai
 }
 
 -(void)initTimer {
