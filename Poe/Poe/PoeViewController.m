@@ -34,6 +34,8 @@
 
 -(void)loadData {
     
+    NSLog(@"TMD");
+    
     self.model = [[PoeModel alloc] init];
     
     int arc = arc4random()%(92-1+1)+1;
